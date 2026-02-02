@@ -1,0 +1,15 @@
+.moving-box{
+    width: 50px;
+    height:50px;
+    background-color:lightblue; 
+    border-radius: 2px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.boundary{
+    width: 400px;
+    height: 400px;
+    border: 2px solid black;
+}
